@@ -1,0 +1,6 @@
+build/
+dist/
+virt/
+__pychche__/
+main_window.spec
+
