@@ -1,6 +1,6 @@
 build/
 dist/
 virt/
-__pychche__/
+__pycache__/
 main_window.spec
 
