@@ -3,4 +3,4 @@ dist/
 virt/
 __pycache__/
 main_window.spec
-
+.idea/
